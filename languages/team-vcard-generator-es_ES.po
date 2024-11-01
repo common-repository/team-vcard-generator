@@ -1,0 +1,1153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-05-26 14:11+0200\n"
+"PO-Revision-Date: 2016-05-31 16:47+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/js/jquery-ui.min.js:10
+msgid "'"
+msgstr "'"
+
+#: includes/class-team-vcard-generator-loader.php:125
+msgid "Team member"
+msgstr "Miembro del equipo"
+
+#: includes/class-team-vcard-generator-loader.php:127
+#: includes/class-team-vcard-generator-table.php:417
+msgid "Add new"
+msgstr "Añadir nuevo"
+
+#: includes/class-team-vcard-generator-loader.php:129
+#: includes/class-team-vcard-generator-loader.php:390
+#: includes/class-team-vcard-generator-loader.php:703
+#: includes/single-team_member.php:355
+msgid "Company"
+msgstr "Empresa"
+
+#: includes/class-team-vcard-generator-loader.php:131
+#: includes/class-team-vcard-generator-table.php:144
+msgid "Edit"
+msgstr "Editar"
+
+#: includes/class-team-vcard-generator-loader.php:133
+#: includes/class-team-vcard-generator-loader.php:1602
+msgid "Settings"
+msgstr "Configuración"
+
+#: includes/class-team-vcard-generator-loader.php:355
+msgid "Member created!"
+msgstr "Miembro creado!"
+
+#: includes/class-team-vcard-generator-loader.php:355
+msgid "The member was created correctly"
+msgstr "El miembro fue creado correctamente"
+
+#: includes/class-team-vcard-generator-loader.php:358
+#: includes/class-team-vcard-generator-loader.php:360
+#: includes/class-team-vcard-generator-loader.php:363
+msgid "Member uncreated!"
+msgstr "No se puedo crear!"
+
+#: includes/class-team-vcard-generator-loader.php:358
+msgid "Couldn't create the member because an error"
+msgstr "No se pudo crear el usuario debido a un error"
+
+#: includes/class-team-vcard-generator-loader.php:360
+msgid "You have reached the maximum allowed members (10)"
+msgstr "Ha alcanzado el número máximo de miembros permitidos (10)"
+
+#: includes/class-team-vcard-generator-loader.php:363
+msgid "The minimum required data to register are the first name and a email"
+msgstr "Se necesita mínimo el nombre y un correo electrónico"
+
+#: includes/class-team-vcard-generator-loader.php:369
+msgid "New member"
+msgstr "Nuevo miembro"
+
+#: includes/class-team-vcard-generator-loader.php:370
+#: includes/class-team-vcard-generator-loader.php:683
+msgid "Return"
+msgstr "Volver"
+
+#: includes/class-team-vcard-generator-loader.php:371
+msgid "Save"
+msgstr "Guardar"
+
+#: includes/class-team-vcard-generator-loader.php:375
+#: includes/class-team-vcard-generator-loader.php:405
+#: includes/class-team-vcard-generator-loader.php:726
+#: includes/class-team-vcard-generator-loader.php:734
+#: includes/class-team-vcard-generator-loader.php:1190
+#: includes/class-team-vcard-generator-loader.php:1198
+msgid "Details"
+msgstr "Detalles"
+
+#: includes/class-team-vcard-generator-loader.php:376
+#: includes/class-team-vcard-generator-loader.php:727
+#: includes/class-team-vcard-generator-loader.php:1191
+msgid "Content "
+msgstr "Contenido "
+
+#: includes/class-team-vcard-generator-loader.php:377
+#: includes/class-team-vcard-generator-loader.php:728
+#: includes/class-team-vcard-generator-loader.php:1192
+msgid "Links / Social networks"
+msgstr "Enlaces / Redes sociales"
+
+#: includes/class-team-vcard-generator-loader.php:378
+#: includes/class-team-vcard-generator-loader.php:533
+#: includes/class-team-vcard-generator-loader.php:729
+#: includes/class-team-vcard-generator-loader.php:958
+#: includes/class-team-vcard-generator-loader.php:1193
+#: includes/class-team-vcard-generator-loader.php:1337
+#: includes/single-team_member.php:403
+msgid "Schedule"
+msgstr "Calendario"
+
+#: includes/class-team-vcard-generator-loader.php:382
+#: includes/class-team-vcard-generator-loader.php:692
+msgid "Type of member"
+msgstr "Tipo de miembro"
+
+#: includes/class-team-vcard-generator-loader.php:383
+#: includes/class-team-vcard-generator-loader.php:693
+msgid "Individual"
+msgstr "Individual"
+
+#: includes/class-team-vcard-generator-loader.php:384
+#: includes/class-team-vcard-generator-loader.php:694
+msgid "Branch Office "
+msgstr "Sucursal"
+
+#: includes/class-team-vcard-generator-loader.php:385
+#: includes/class-team-vcard-generator-loader.php:695
+msgid "Select the parent: "
+msgstr "Selecciona el padre: "
+
+#: includes/class-team-vcard-generator-loader.php:394
+#: includes/class-team-vcard-generator-loader.php:710
+msgid "Office"
+msgstr "Sucursal"
+
+#: includes/class-team-vcard-generator-loader.php:396
+#: includes/class-team-vcard-generator-loader.php:714
+msgid "None"
+msgstr "Ninguno"
+
+#: includes/class-team-vcard-generator-loader.php:407
+#: includes/class-team-vcard-generator-loader.php:736
+msgid "Firstname: "
+msgstr "Nombre: "
+
+#: includes/class-team-vcard-generator-loader.php:411
+#: includes/class-team-vcard-generator-loader.php:740
+msgid "Lastname: "
+msgstr "Apellidos: "
+
+#: includes/class-team-vcard-generator-loader.php:415
+#: includes/class-team-vcard-generator-loader.php:744
+#: includes/class-team-vcard-generator-loader.php:1204
+msgid "Email address (Work): "
+msgstr "Dirección de correo electrónico (Trabajo):"
+
+#: includes/class-team-vcard-generator-loader.php:419
+#: includes/class-team-vcard-generator-loader.php:748
+msgid "Email address (Home): "
+msgstr "Dirección de correo electrónico (Personal):"
+
+#: includes/class-team-vcard-generator-loader.php:423
+#: includes/class-team-vcard-generator-loader.php:752
+#: includes/class-team-vcard-generator-loader.php:1208
+msgid "Email address (Other): "
+msgstr "Dirección de correo electrónico (Otro)"
+
+#: includes/class-team-vcard-generator-loader.php:427
+#: includes/class-team-vcard-generator-loader.php:756
+#: includes/class-team-vcard-generator-loader.php:1212
+msgid "Phone number (Work): "
+msgstr "Número de teléfono (Trabajo):"
+
+#: includes/class-team-vcard-generator-loader.php:431
+#: includes/class-team-vcard-generator-loader.php:760
+msgid "Phone number (Home): "
+msgstr "Número de teléfono (Personal):"
+
+#: includes/class-team-vcard-generator-loader.php:435
+#: includes/class-team-vcard-generator-loader.php:764
+#: includes/class-team-vcard-generator-loader.php:1216
+msgid "Phone number (Other): "
+msgstr "Número de teléfono (Otro)"
+
+#: includes/class-team-vcard-generator-loader.php:439
+#: includes/class-team-vcard-generator-loader.php:768
+msgid "Charge: "
+msgstr "Cargo:"
+
+#: includes/class-team-vcard-generator-loader.php:444
+#: includes/class-team-vcard-generator-loader.php:773
+#: includes/class-team-vcard-generator-loader.php:1221
+msgid "Address"
+msgstr "Dirección"
+
+#: includes/class-team-vcard-generator-loader.php:445
+#: includes/class-team-vcard-generator-loader.php:461
+#: includes/class-team-vcard-generator-loader.php:485
+#: includes/class-team-vcard-generator-loader.php:496
+#: includes/class-team-vcard-generator-loader.php:510
+#: includes/class-team-vcard-generator-loader.php:520
+#: includes/class-team-vcard-generator-loader.php:536
+#: includes/class-team-vcard-generator-loader.php:778
+#: includes/class-team-vcard-generator-loader.php:802
+#: includes/class-team-vcard-generator-loader.php:838
+#: includes/class-team-vcard-generator-loader.php:877
+#: includes/class-team-vcard-generator-loader.php:900
+#: includes/class-team-vcard-generator-loader.php:930
+#: includes/class-team-vcard-generator-loader.php:965
+msgid "Same as parent"
+msgstr "Lo mismo que el padre"
+
+#: includes/class-team-vcard-generator-loader.php:447
+#: includes/class-team-vcard-generator-loader.php:784
+#: includes/class-team-vcard-generator-loader.php:1222
+msgid "Street: "
+msgstr "Calle:"
+
+#: includes/class-team-vcard-generator-loader.php:449
+#: includes/class-team-vcard-generator-loader.php:786
+#: includes/class-team-vcard-generator-loader.php:1224
+msgid "Number: "
+msgstr "Número:"
+
+#: includes/class-team-vcard-generator-loader.php:451
+#: includes/class-team-vcard-generator-loader.php:788
+#: includes/class-team-vcard-generator-loader.php:1226
+msgid "City: "
+msgstr "Ciudad:"
+
+#: includes/class-team-vcard-generator-loader.php:453
+#: includes/class-team-vcard-generator-loader.php:790
+#: includes/class-team-vcard-generator-loader.php:1228
+msgid "State: "
+msgstr "Provincia:"
+
+#: includes/class-team-vcard-generator-loader.php:455
+#: includes/class-team-vcard-generator-loader.php:792
+#: includes/class-team-vcard-generator-loader.php:1230
+msgid "Zip code: "
+msgstr "Código Postal: "
+
+#: includes/class-team-vcard-generator-loader.php:460
+#: includes/class-team-vcard-generator-loader.php:797
+#: includes/class-team-vcard-generator-loader.php:1234
+msgid "Note"
+msgstr "Nota"
+
+#: includes/class-team-vcard-generator-loader.php:464
+#: includes/class-team-vcard-generator-loader.php:809
+#: includes/class-team-vcard-generator-loader.php:1236
+msgid "Note in contact download"
+msgstr "Nota en  el contacto descargado"
+
+#: includes/class-team-vcard-generator-loader.php:469
+#: includes/class-team-vcard-generator-loader.php:816
+msgid "Photo"
+msgstr "Foto"
+
+#: includes/class-team-vcard-generator-loader.php:471
+#: includes/class-team-vcard-generator-loader.php:824
+#: includes/class-team-vcard-generator-loader.php:1250
+#: includes/class-team-vcard-generator-loader.php:1519
+msgid "Select"
+msgstr "Seleccionar"
+
+#: includes/class-team-vcard-generator-loader.php:484
+#: includes/class-team-vcard-generator-loader.php:833
+#: includes/class-team-vcard-generator-loader.php:1258
+msgid "Links"
+msgstr "Links"
+
+#: includes/class-team-vcard-generator-loader.php:487
+#: includes/class-team-vcard-generator-loader.php:488
+#: includes/class-team-vcard-generator-loader.php:489
+#: includes/class-team-vcard-generator-loader.php:845
+#: includes/class-team-vcard-generator-loader.php:864
+#: includes/class-team-vcard-generator-loader.php:865
+#: includes/class-team-vcard-generator-loader.php:866
+#: includes/class-team-vcard-generator-loader.php:1259
+#: includes/class-team-vcard-generator-loader.php:1278
+#: includes/class-team-vcard-generator-loader.php:1279
+#: includes/class-team-vcard-generator-loader.php:1280
+msgid "Choose"
+msgstr "Elige"
+
+#: includes/class-team-vcard-generator-loader.php:490
+#: includes/class-team-vcard-generator-loader.php:868
+#: includes/class-team-vcard-generator-loader.php:1282
+msgid "Add links"
+msgstr "Añadir enlaces"
+
+#: includes/class-team-vcard-generator-loader.php:495
+#: includes/class-team-vcard-generator-loader.php:872
+#: includes/class-team-vcard-generator-loader.php:1285
+msgid "Widgets"
+msgstr "Widgets"
+
+#: includes/class-team-vcard-generator-loader.php:498
+#: includes/class-team-vcard-generator-loader.php:883
+#: includes/class-team-vcard-generator-loader.php:1286
+msgid "CREATE"
+msgstr "CREAR"
+
+#: includes/class-team-vcard-generator-loader.php:499
+#: includes/class-team-vcard-generator-loader.php:884
+#: includes/class-team-vcard-generator-loader.php:1287
+msgid "Create and paste the html inside the below input"
+msgstr "Crea y pega el HTML dentro del campo de debajo"
+
+#: includes/class-team-vcard-generator-loader.php:503
+#: includes/class-team-vcard-generator-loader.php:888
+#: includes/class-team-vcard-generator-loader.php:1291
+msgid "Put only the link, example: https://www.facebook.com/Microsoft/ "
+msgstr "Pon solo el enlace, ejemplo: https://www.facebook.com/Microsoft/ "
+
+#: includes/class-team-vcard-generator-loader.php:509
+#: includes/class-team-vcard-generator-loader.php:895
+#: includes/class-team-vcard-generator-loader.php:1296
+msgid "Content"
+msgstr "Contenido"
+
+#: includes/class-team-vcard-generator-loader.php:512
+#: includes/class-team-vcard-generator-loader.php:522
+#: includes/class-team-vcard-generator-loader.php:916
+#: includes/class-team-vcard-generator-loader.php:946
+#: includes/class-team-vcard-generator-loader.php:1307
+#: includes/class-team-vcard-generator-loader.php:1327
+msgid "Title"
+msgstr "Titulo"
+
+#: includes/class-team-vcard-generator-loader.php:512
+#: includes/class-team-vcard-generator-loader.php:513
+#: includes/class-team-vcard-generator-loader.php:514
+#: includes/class-team-vcard-generator-loader.php:523
+#: includes/class-team-vcard-generator-loader.php:524
+#: includes/class-team-vcard-generator-loader.php:910
+#: includes/class-team-vcard-generator-loader.php:916
+#: includes/class-team-vcard-generator-loader.php:917
+#: includes/class-team-vcard-generator-loader.php:918
+#: includes/class-team-vcard-generator-loader.php:940
+#: includes/class-team-vcard-generator-loader.php:946
+#: includes/class-team-vcard-generator-loader.php:947
+#: includes/class-team-vcard-generator-loader.php:948
+#: includes/class-team-vcard-generator-loader.php:1301
+#: includes/class-team-vcard-generator-loader.php:1307
+#: includes/class-team-vcard-generator-loader.php:1308
+#: includes/class-team-vcard-generator-loader.php:1309
+#: includes/class-team-vcard-generator-loader.php:1321
+#: includes/class-team-vcard-generator-loader.php:1327
+#: includes/class-team-vcard-generator-loader.php:1328
+#: includes/class-team-vcard-generator-loader.php:1329
+msgid "Select image"
+msgstr "Selecciona imagen"
+
+#: includes/class-team-vcard-generator-loader.php:512
+#: includes/class-team-vcard-generator-loader.php:513
+#: includes/class-team-vcard-generator-loader.php:514
+msgid " Content - max 2000 characters"
+msgstr "Contenido - máximo 2000 caracteres"
+
+#: includes/class-team-vcard-generator-loader.php:515
+#: includes/class-team-vcard-generator-loader.php:921
+#: includes/class-team-vcard-generator-loader.php:950
+#: includes/class-team-vcard-generator-loader.php:1312
+#: includes/class-team-vcard-generator-loader.php:1331
+msgid "Add content"
+msgstr "Añadir contenido"
+
+#: includes/class-team-vcard-generator-loader.php:519
+#: includes/class-team-vcard-generator-loader.php:925
+#: includes/class-team-vcard-generator-loader.php:1316
+#: includes/single-team_member.php:412 includes/single-team_member.php:413
+msgid "Offers"
+msgstr "Ofertas"
+
+#: includes/class-team-vcard-generator-loader.php:522
+msgid "Select  image"
+msgstr "Selecciona imagen"
+
+#: includes/class-team-vcard-generator-loader.php:525
+msgid "Add offer"
+msgstr "Añadir oferta"
+
+#: includes/class-team-vcard-generator-loader.php:534
+#: includes/class-team-vcard-generator-loader.php:959
+#: includes/class-team-vcard-generator-loader.php:1339
+msgid ""
+"You can define the days in groups and personalize the horary of each group "
+"of days, in each group you can set multiples time slots (+)"
+msgstr ""
+"Puedes definir los días en grupos y personalizar el horario de cada grupo de "
+"días, en cada grupo puedes definir múltiples franjas horarias (+)"
+
+#: includes/class-team-vcard-generator-loader.php:544
+#: includes/class-team-vcard-generator-loader.php:1006
+#: includes/class-team-vcard-generator-loader.php:1070
+#: includes/class-team-vcard-generator-loader.php:1375
+#: includes/class-team-vcard-generator-loader.php:1436
+msgid "Select the days"
+msgstr "Selecciona los días"
+
+#: includes/class-team-vcard-generator-loader.php:545
+#: includes/class-team-vcard-generator-loader.php:1011
+#: includes/class-team-vcard-generator-loader.php:1071
+#: includes/class-team-vcard-generator-loader.php:1380
+#: includes/class-team-vcard-generator-loader.php:1437
+#: includes/single-team_member.php:372
+msgid "Monday"
+msgstr "Lunes"
+
+#: includes/class-team-vcard-generator-loader.php:546
+#: includes/class-team-vcard-generator-loader.php:1016
+#: includes/class-team-vcard-generator-loader.php:1072
+#: includes/class-team-vcard-generator-loader.php:1385
+#: includes/class-team-vcard-generator-loader.php:1438
+#: includes/single-team_member.php:374
+msgid "Tuesday"
+msgstr "Martes"
+
+#: includes/class-team-vcard-generator-loader.php:547
+#: includes/class-team-vcard-generator-loader.php:1021
+#: includes/class-team-vcard-generator-loader.php:1073
+#: includes/class-team-vcard-generator-loader.php:1390
+#: includes/class-team-vcard-generator-loader.php:1439
+#: includes/single-team_member.php:376
+msgid "Wednesday"
+msgstr "Miércoles"
+
+#: includes/class-team-vcard-generator-loader.php:548
+#: includes/class-team-vcard-generator-loader.php:1026
+#: includes/class-team-vcard-generator-loader.php:1074
+#: includes/class-team-vcard-generator-loader.php:1395
+#: includes/class-team-vcard-generator-loader.php:1440
+#: includes/single-team_member.php:378
+msgid "Thursday"
+msgstr "Jueves"
+
+#: includes/class-team-vcard-generator-loader.php:549
+#: includes/class-team-vcard-generator-loader.php:1031
+#: includes/class-team-vcard-generator-loader.php:1075
+#: includes/class-team-vcard-generator-loader.php:1400
+#: includes/class-team-vcard-generator-loader.php:1441
+#: includes/single-team_member.php:380
+msgid "Friday"
+msgstr "Viernes"
+
+#: includes/class-team-vcard-generator-loader.php:550
+#: includes/class-team-vcard-generator-loader.php:1036
+#: includes/class-team-vcard-generator-loader.php:1076
+#: includes/class-team-vcard-generator-loader.php:1405
+#: includes/class-team-vcard-generator-loader.php:1442
+msgid "Saturday"
+msgstr "Sábado"
+
+#: includes/class-team-vcard-generator-loader.php:551
+#: includes/class-team-vcard-generator-loader.php:1041
+#: includes/class-team-vcard-generator-loader.php:1077
+#: includes/class-team-vcard-generator-loader.php:1410
+#: includes/class-team-vcard-generator-loader.php:1443
+#: includes/single-team_member.php:384
+msgid "Sunday"
+msgstr "Domingo"
+
+#: includes/class-team-vcard-generator-loader.php:553
+#: includes/class-team-vcard-generator-loader.php:1045
+#: includes/class-team-vcard-generator-loader.php:1051
+#: includes/class-team-vcard-generator-loader.php:1079
+#: includes/class-team-vcard-generator-loader.php:1414
+#: includes/class-team-vcard-generator-loader.php:1417
+#: includes/class-team-vcard-generator-loader.php:1445
+msgid "to"
+msgstr "a"
+
+#: includes/class-team-vcard-generator-loader.php:553
+#: includes/class-team-vcard-generator-loader.php:1053
+#: includes/class-team-vcard-generator-loader.php:1079
+#: includes/class-team-vcard-generator-loader.php:1419
+#: includes/class-team-vcard-generator-loader.php:1445
+msgid "Delete this group"
+msgstr "Borrar este grupo"
+
+#: includes/class-team-vcard-generator-loader.php:555
+#: includes/class-team-vcard-generator-loader.php:1081
+#: includes/class-team-vcard-generator-loader.php:1447
+msgid "Add group"
+msgstr "Añadir grupo"
+
+#: includes/class-team-vcard-generator-loader.php:673
+#: includes/class-team-vcard-generator-loader.php:1170
+msgid "Unsaved changes"
+msgstr "Cambios sin guardar"
+
+#: includes/class-team-vcard-generator-loader.php:673
+msgid "The minimum required data to register are the full name and a email"
+msgstr "Necesita tener un nombre  y un correo electrónico"
+
+#: includes/class-team-vcard-generator-loader.php:682
+msgid "Edit member"
+msgstr "Editar Miembro"
+
+#: includes/class-team-vcard-generator-loader.php:684
+#: includes/class-team-vcard-generator-loader.php:1180
+msgid "Save changes"
+msgstr "Guardar Cambios"
+
+#: includes/class-team-vcard-generator-loader.php:685
+#: includes/class-team-vcard-generator-loader.php:1181
+#: includes/class-team-vcard-generator-table.php:150
+msgid "View"
+msgstr "Ver"
+
+#: includes/class-team-vcard-generator-loader.php:722
+#: includes/class-team-vcard-generator-loader.php:1185
+msgid "Download QR-Code"
+msgstr "Descarga QR-Code"
+
+#: includes/class-team-vcard-generator-loader.php:845
+#: includes/class-team-vcard-generator-loader.php:1259
+msgid "Other.."
+msgstr "Otro.."
+
+#: includes/class-team-vcard-generator-loader.php:1170
+msgid "The minimum required data is the name of the company"
+msgstr "Debe tener definido un nombre de compañia"
+
+#: includes/class-team-vcard-generator-loader.php:1179
+msgid "My company"
+msgstr "Mi empresa"
+
+#: includes/class-team-vcard-generator-loader.php:1200
+msgid "Name: "
+msgstr "Nombre:"
+
+#: includes/class-team-vcard-generator-loader.php:1242
+msgid "Logo"
+msgstr "Logo"
+
+#: includes/class-team-vcard-generator-loader.php:1307
+msgid "Content - max 2000 characters"
+msgstr "Contenido - máximo 2000 caracteres"
+
+#: includes/class-team-vcard-generator-loader.php:1466
+msgid "URL"
+msgstr "URL"
+
+#: includes/class-team-vcard-generator-loader.php:1467
+msgid "Default photo"
+msgstr "Foto por defecto"
+
+#: includes/class-team-vcard-generator-loader.php:1468
+msgid "Template"
+msgstr "Plantilla"
+
+#: includes/class-team-vcard-generator-loader.php:1469
+msgid "Colors"
+msgstr "Colores"
+
+#: includes/class-team-vcard-generator-loader.php:1507
+msgid "Permalink where be all the cards"
+msgstr "Enlace permanente donde estarán todas las tarjetas"
+
+#: includes/class-team-vcard-generator-loader.php:1509
+msgid ""
+"Example: http://your-domain-name/<span style=\"color:red\">URL</span>/eli-"
+"wallace"
+msgstr ""
+"Ejemplo: http://tu-nombre-dominio/<span style=\"color:red\">URL</span>/eli-"
+"wallace"
+
+#: includes/class-team-vcard-generator-loader.php:1522
+msgid "Activate: "
+msgstr "Activar:"
+
+#: includes/class-team-vcard-generator-loader.php:1523
+msgid "Yes "
+msgstr "Si"
+
+#: includes/class-team-vcard-generator-loader.php:1528
+msgid "No "
+msgstr "No"
+
+#: includes/class-team-vcard-generator-loader.php:1535
+msgid ""
+"If the member dont have a photo and this option is activated, the photo of "
+"the user will be this image."
+msgstr ""
+"Si el miembro no tiene una foto y esta opción esta activada, la foto del "
+"usuario será esta imagen."
+
+#: includes/class-team-vcard-generator-loader.php:1543
+msgid "Default "
+msgstr "Por defecto"
+
+#: includes/class-team-vcard-generator-loader.php:1548
+msgid "Secondary "
+msgstr "Secundario"
+
+#: includes/class-team-vcard-generator-loader.php:1564
+msgid "1º Color: "
+msgstr "1ºColor:"
+
+#: includes/class-team-vcard-generator-loader.php:1567
+msgid "2º Color: "
+msgstr "2ºColor:"
+
+#: includes/class-team-vcard-generator-loader.php:1572
+msgid "Top Background preview: "
+msgstr "Preview del fondo de arriba"
+
+#: includes/class-team-vcard-generator-loader.php:1577
+msgid "Browser address bar(smartphone): "
+msgstr "Barra de dirección del navegador(smartphone): "
+
+#: includes/class-team-vcard-generator-loader.php:1585
+msgid "Go up button: "
+msgstr "Botón para volver arriba: "
+
+#: includes/class-team-vcard-generator-table.php:20
+msgid "Member"
+msgstr "Miembro"
+
+#: includes/class-team-vcard-generator-table.php:21
+#: includes/class-team-vcard-generator-table.php:416
+msgid "Members"
+msgstr "Miembros"
+
+#: includes/class-team-vcard-generator-table.php:91
+msgid "No members available"
+msgstr "Sin miembros disponibles"
+
+#: includes/class-team-vcard-generator-table.php:105
+msgid "Firstname"
+msgstr "Nombre"
+
+#: includes/class-team-vcard-generator-table.php:106
+msgid "Lastname"
+msgstr "Apellidos"
+
+#: includes/class-team-vcard-generator-table.php:107
+msgid "Email address "
+msgstr "Dirección de email:"
+
+#: includes/class-team-vcard-generator-table.php:145
+#: includes/class-team-vcard-generator-table.php:205
+msgid "Delete"
+msgstr "Borrar"
+
+#: includes/class-team-vcard-generator-table.php:147
+#: includes/class-team-vcard-generator-table.php:204
+msgid "Activate"
+msgstr "Activar"
+
+#: includes/class-team-vcard-generator-table.php:149
+#: includes/class-team-vcard-generator-table.php:207
+msgid "Deactivate"
+msgstr "Desactivar"
+
+#: includes/class-team-vcard-generator-table.php:160
+#: includes/single-team_member.php:109
+msgid "Download"
+msgstr "Descargar"
+
+#: includes/class-team-vcard-generator-table.php:402
+msgid "Team members"
+msgstr "Miembros del equipo"
+
+#: includes/class-team-vcard-generator-table.php:422
+msgid "Active"
+msgstr "Activo"
+
+#: includes/class-team-vcard-generator-table.php:430
+msgid "Inactive"
+msgstr "Inactivo"
+
+#: includes/class-team-vcard-generator-table.php:439
+msgid "Search members"
+msgstr "Buscar miembros"
+
+#: includes/single-team_member.php:107 includes/single-team_member.php:570
+#: includes/single-team_member.php:571
+msgid "Share"
+msgstr "Compartir"
+
+#: includes/single-team_member.php:108
+msgid "Home"
+msgstr "Inicio"
+
+#: includes/single-team_member.php:120
+msgid "Inicio"
+msgstr "Inicio"
+
+#: includes/single-team_member.php:182 includes/single-team_member.php:185
+#: includes/single-team_member.php:187
+msgid "Disponible in"
+msgstr "Disponible en"
+
+#: includes/single-team_member.php:182 includes/single-team_member.php:193
+msgid "hours. "
+msgstr "horas."
+
+#: includes/single-team_member.php:185 includes/single-team_member.php:196
+msgid "hour and"
+msgstr "hora y"
+
+#: includes/single-team_member.php:185 includes/single-team_member.php:196
+msgid "minutes"
+msgstr "minutos"
+
+#: includes/single-team_member.php:187 includes/single-team_member.php:198
+msgid "minutes. "
+msgstr "minutos."
+
+#: includes/single-team_member.php:193 includes/single-team_member.php:196
+#: includes/single-team_member.php:198
+msgid "Open in"
+msgstr "Abierto en"
+
+#: includes/single-team_member.php:208
+msgid "Disponible"
+msgstr "Disponible"
+
+#: includes/single-team_member.php:211
+msgid "Open"
+msgstr "Abierto"
+
+#: includes/single-team_member.php:217
+msgid "Disponible for "
+msgstr "Disponible por"
+
+#: includes/single-team_member.php:217 includes/single-team_member.php:220
+msgid " minutes. "
+msgstr "minutos."
+
+#: includes/single-team_member.php:220
+msgid "Open for "
+msgstr "Abierto por"
+
+#: includes/single-team_member.php:234
+msgid "Tomorrow at "
+msgstr "Mañana a las"
+
+#: includes/single-team_member.php:237
+msgid "No disponible"
+msgstr "No disponible"
+
+#: includes/single-team_member.php:239
+msgid "Closed"
+msgstr "Cerrado"
+
+#: includes/single-team_member.php:275 includes/single-team_member.php:276
+msgid "About me"
+msgstr "Sobre mi"
+
+#: includes/single-team_member.php:292
+msgid "About "
+msgstr "Sobre "
+
+#: includes/single-team_member.php:297 includes/single-team_member.php:298
+#: includes/single-team_member.php:312 includes/single-team_member.php:327
+msgid "Contact"
+msgstr "Contacto"
+
+#: includes/single-team_member.php:301
+msgid "Phones"
+msgstr "Teléfonos"
+
+#: includes/single-team_member.php:304 includes/single-team_member.php:319
+msgid "Profesional"
+msgstr "Profesional"
+
+#: includes/single-team_member.php:307
+msgid "Personal"
+msgstr "Personal"
+
+#: includes/single-team_member.php:310 includes/single-team_member.php:325
+msgid "Other"
+msgstr "Otro"
+
+#: includes/single-team_member.php:312 includes/single-team_member.php:356
+msgid "Phone"
+msgstr "Teléfono"
+
+#: includes/single-team_member.php:316
+msgid "Emails"
+msgstr "Correos electrónicos"
+
+#: includes/single-team_member.php:322
+msgid "Peronal"
+msgstr "Personal"
+
+#: includes/single-team_member.php:327 includes/single-team_member.php:357
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: includes/single-team_member.php:331 includes/single-team_member.php:348
+#: includes/single-team_member.php:361
+msgid "Where can find me"
+msgstr "Donde puedes encontrarme"
+
+#: includes/single-team_member.php:351 includes/single-team_member.php:361
+msgid "Contact form"
+msgstr "Formulario de contacto"
+
+#: includes/single-team_member.php:353
+msgid "Name"
+msgstr "Nombre"
+
+#: includes/single-team_member.php:358
+msgid "Subject"
+msgstr "Asunto"
+
+#: includes/single-team_member.php:359
+msgid "Message"
+msgstr "Mensajes"
+
+#: includes/single-team_member.php:360
+msgid "Send"
+msgstr "Enviar"
+
+#: includes/single-team_member.php:366 includes/single-team_member.php:403
+msgid "When im available"
+msgstr "Cuando estoy disponible"
+
+#: includes/single-team_member.php:367
+msgid "Days"
+msgstr "Dias"
+
+#: includes/single-team_member.php:367
+msgid "Hours"
+msgstr "Horas"
+
+#: includes/single-team_member.php:382
+msgid "Sataurday"
+msgstr "Sábado"
+
+#: includes/single-team_member.php:429 includes/single-team_member.php:444
+msgid "Social networks / Links"
+msgstr "Redes sociales / Enlaces"
+
+#: includes/single-team_member.php:475
+msgid "Our team"
+msgstr "Nuestro equipo"
+
+#: includes/single-team_member.php:489
+msgid "Team"
+msgstr "Equipo"
+
+#: includes/single-team_member.php:494
+msgid "Other branches"
+msgstr "Otras sucursales"
+
+#: includes/single-team_member.php:496
+msgid "Our branches"
+msgstr "Nuestras sucursales"
+
+#: includes/single-team_member.php:512
+msgid "Branches"
+msgstr "Sucursales"
+
+#: includes/single-team_member.php:560
+msgid "Sent!"
+msgstr "Enviado!"
+
+#: includes/single-team_member.php:561
+msgid "Sent"
+msgstr "enviado"
+
+#: includes/single-team_member.php:562
+msgid "Thank you"
+msgstr "Gracias"
+
+#: includes/single-team_member.php:565
+msgid "Mail cannot be send!"
+msgstr "El correo no se ha podido enviar!"
+
+#: includes/single-team_member.php:566
+msgid "Not send"
+msgstr "Sin enviar"
+
+#: includes/single-team_member.php:567
+msgid "There was a problem sending the mail"
+msgstr "Hubo un problema enviando el correo electrónico"
+
+#: includes/single-team_member.php:579 includes/single-team_member.php:587
+#: includes/single-team_member.php:593 includes/single-team_member.php:601
+#: includes/single-team_member.php:607
+msgid "Check this card: "
+msgstr "Pega un vistazo a esta tarjeta: "
+
+#~ msgid "Check this VCard: "
+#~ msgstr "Pega un vistazo a esta tarjeta:"
+
+#~ msgid "Delete this Schedule"
+#~ msgstr "Borra este grupo"
+
+#~ msgid "About"
+#~ msgstr "Sobre"
+
+#~ msgid "See contact"
+#~ msgstr "Ver contacto"
+
+#~ msgid "Linkedin: "
+#~ msgstr "LinkedIn:"
+
+#~ msgid "Twitter: "
+#~ msgstr "Twitter:"
+
+#~ msgid "WEB page: "
+#~ msgstr "Página web: "
+
+#~ msgid "Company name"
+#~ msgstr "Nombre del la empresa"
+
+#~ msgid "Company mail"
+#~ msgstr "Correo de la empresa"
+
+#~ msgid "Default note"
+#~ msgstr "Nota por defecto"
+
+#~ msgid "Member default photo"
+#~ msgstr "Foto predeterminada del miembro"
+
+#~ msgid "Company logo"
+#~ msgstr "Logo de la empresa"
+
+#~ msgid "Facebook: "
+#~ msgstr "Facebook:"
+
+#~ msgid "View all"
+#~ msgstr "Ver todos"
+
+#~ msgid "Contact with me"
+#~ msgstr "Contacta conmigo"
+
+#~ msgid "Download / Windows - Android"
+#~ msgstr "Descarga / Windows - Android"
+
+#~ msgid "Download / IOS"
+#~ msgstr "Descarga / IOS"
+
+#~ msgid ""
+#~ "The direct download of a contact is not supported in IOS, please put your "
+#~ "email account below and we'll send the contact to you"
+#~ msgstr ""
+#~ "La descarga directa de un contacto no es compatible con IOS, por favor "
+#~ "ponga su cuenta de correo electrónico a continuación y le enviaremos el "
+#~ "contacto"
+
+#~ msgid "The contact has been sent to the email provided"
+#~ msgstr "El contacto ha sido enviada al correo electrónico proporcionado"
+
+#~ msgid "Wrong email!"
+#~ msgstr "Mail incorrecto!"
+
+#~ msgid "Could not send the contact, the email account is not correct"
+#~ msgstr ""
+#~ "No se pudo enviar el contacto, la cuenta de correo electrónico no es "
+#~ "correcta"
+
+#~ msgid "Not sent!"
+#~ msgstr "No se puedo enviar!"
+
+#~ msgid "Could not send the mail, there was an error in the process"
+#~ msgstr "No se pudo enviar el correo, hubo un error en el proceso "
+
+#~ msgid "Email address (work): "
+#~ msgstr "Dirección de correo electrónico (Trabajo):"
+
+#~ msgid "Email address (home): "
+#~ msgstr "Dirección de correo electrónico (Personal):"
+
+#~ msgid "Phone number (work): "
+#~ msgstr "Número de teléfono (Trabajo):"
+
+#~ msgid "Phone number (home): "
+#~ msgstr "Número de teléfono (Personal):"
+
+#~ msgid "See Contact"
+#~ msgstr "Ver contacto"
+
+#~ msgid "Team Members"
+#~ msgstr "Miembros del equipo"
+
+#~ msgid "Member Created!"
+#~ msgstr "Miembro creado!"
+
+#~ msgid "Member Uncreated!"
+#~ msgstr "No se puedo crear!"
+
+#~ msgid "Couldn't create the user because an error"
+#~ msgstr "No se pudo crear el usuario debido a un error"
+
+#~ msgid "You have reached the maximum allowed users (10)"
+#~ msgstr "Ha alcanzado el número máximo de usuarios permitidos (10)"
+
+#~ msgid "New Member"
+#~ msgstr "Nuevo miembro"
+
+#~ msgid "Email Address (Work): "
+#~ msgstr "Dirección de correo electrónico (Trabajo):"
+
+#~ msgid "Email Address (Home): "
+#~ msgstr "Dirección de correo electrónico (Personal):"
+
+#~ msgid "Phone Number (Work): "
+#~ msgstr "Número de teléfono (Trabajo):"
+
+#~ msgid "Phone Number (Home): "
+#~ msgstr "Número de teléfono (Personal):"
+
+#~ msgid "Zip Code: "
+#~ msgstr "Código Postal:"
+
+#~ msgid "WEB Page: "
+#~ msgstr "Página web: "
+
+#~ msgid "Edit Member"
+#~ msgstr "Editar Miembro"
+
+#~ msgid "Save Changes"
+#~ msgstr "Guardar Cambios"
+
+#~ msgid "Company Name"
+#~ msgstr "Nombre del la empresa"
+
+#~ msgid "Company Mail"
+#~ msgstr "Correo de la empresa"
+
+#~ msgid "Default Note"
+#~ msgstr "Nota por defecto"
+
+#~ msgid "User Default Photo"
+#~ msgstr "Foto predeterminada del miembro"
+
+#~ msgid "Company Logo"
+#~ msgstr "Logo de la empresa"
+
+#~ msgid "Android App: "
+#~ msgstr "App de Android:"
+
+#~ msgid "App Store: "
+#~ msgstr "App de IOS:"
+
+#~ msgid "No Members available"
+#~ msgstr "Sin miembros disponibles"
+
+#~ msgid "Email Address "
+#~ msgstr "Dirección de correo electrónico"
+
+#~ msgid "Search Members"
+#~ msgstr "Buscar miembros"
+
+#~ msgid "Wrong Email!"
+#~ msgstr "Mail Incorrecto!"
+
+#~ msgid "Not Sent!"
+#~ msgstr "No se puedo enviar!"
+
+#~ msgid "team_member"
+#~ msgstr "Miembro del equipo"
+
+#~ msgid "Outdated Notice Settings"
+#~ msgstr "Configuración de aviso anticuado"
+
+#~ msgid "Outdated Notice"
+#~ msgstr "Anuncio anticuado"
+
+#~ msgid "Im thinking... "
+#~ msgstr "Estoy pensando..."
+
+#~ msgid "Email Address: "
+#~ msgstr "Dirección de Email:"
+
+#~ msgid "Phone Number(1): "
+#~ msgstr "Número de teléfono(1):"
+
+#~ msgid "Phone Number(2): "
+#~ msgstr "Número de teléfono(2):"
+
+#, fuzzy
+#~ msgid "Business Cards"
+#~ msgstr "Tarjetas empresariales"
+
+#~ msgid "Member Details"
+#~ msgstr "Detalles Miembro"
+
+#~ msgid "Phone Number: "
+#~ msgstr "Número de teléfono:"
+
+#~ msgid "Address: "
+#~ msgstr "Dirección:"
+
+#~ msgid "Photo: "
+#~ msgstr "Foto:"
+
+#~ msgid "Notes"
+#~ msgstr "Notas"
+
+#, fuzzy
+#~ msgid "Company Name: "
+#~ msgstr "Nombre del la Compañía:"
+
+#~ msgid "Settings field description"
+#~ msgstr "Configuración del campo Descripción"
+
+#~ msgid "This section description"
+#~ msgstr "Sección de Descripción"
+
+#~ msgid "No Members avaliable"
+#~ msgstr "Sin miembros disponibles"
+
+#~ msgid "Team Member"
+#~ msgstr "Miembro del Equipo"
+
+#~ msgid "Add New Team Member"
+#~ msgstr "Agregar un nuevo Miembro de Equipo"
+
+#~ msgid "Edit Team Member"
+#~ msgstr "Editar Miembro de Equipo"
+
+#~ msgid "New Team Member"
+#~ msgstr "Nuevo miembro del equipo"
+
+#~ msgid "View Team Member"
+#~ msgstr "Ver Miembro de Equipo"
+
+#~ msgid "Search Team Member"
+#~ msgstr "Buscar miembro"
+
+#~ msgid "No team members found"
+#~ msgstr "No se encontraron Miembros del Equipo"
+
+#~ msgid "No team members found in trash"
+#~ msgstr "No se encontraron Miembros del Equipo en la basura"
+
+#~ msgid "Parent Team Member:"
+#~ msgstr "Miembro del Equipo Padre:"
+
+#~ msgid "Team members filterable by genre"
+#~ msgstr "Miembros del equipo filtrados por género"
+
+#~ msgid "Example meta field"
+#~ msgstr "Ejemplo de campo de meta"
+
+#~ msgid "Enter a value for this field"
+#~ msgstr "Por favor, introduzca un valor en este campo"
